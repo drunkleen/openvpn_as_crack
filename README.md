@@ -34,7 +34,7 @@ example
 ```https://your_server_address:943/admin```
 
 
-### Know Time To crack
+### Time To crack
 ##### 1. Redirect to downloaded Reposetory:
 ```
 cd openvpn_as_crack
