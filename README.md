@@ -3,7 +3,7 @@ openvpn access server install file and crack file.
 
 #### Before starting with the project you need to install ``` net-tools ```
 ```
-yum -y install net-tools wget nano
+yum -y install net-tools wget nano git
 ```
 
 ##### 1. Download the project:
