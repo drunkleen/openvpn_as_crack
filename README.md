@@ -33,7 +33,7 @@ example
 
 
 ### Time To crack
-##### 1. Redirect to downloaded Reposetory: optional
+##### 1. Redirect to downloaded Reposetory: (in case you change the directory)
 ```
 cd openvpn_as_crack
 ```
